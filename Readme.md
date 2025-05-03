@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+@Debjit Roy
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
